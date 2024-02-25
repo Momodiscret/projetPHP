@@ -29,6 +29,7 @@
         <input type="radio" name="gender" value="other">Other
         <input type="submit">
     </form>
+    <h1>salut Mohamed</h1>
 
 </body>
 </html>
